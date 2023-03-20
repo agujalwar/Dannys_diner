@@ -1,7 +1,10 @@
 # Dannys_diner
 Case Study #1 - Danny's Diner
 Danny Ma · May 1, 2021
-![image](https://user-images.githubusercontent.com/125154280/226059456-810c87db-c12c-4429-a7e0-3aa2c77cf577.png)
+
+<img src="https://user-images.githubusercontent.com/103854541/211899169-ff412900-ec3d-45d2-b375-4660632c6ef1.png" width="500" height="500">
+
+
 
 
 
